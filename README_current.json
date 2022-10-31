@@ -1,0 +1,7 @@
+{
+  "latestVersion": "v0.6",
+  "lastUpdate": "20221031",
+  "gitRepoName": "xcode_dev_debug_summary",
+  "bookName": "Xcode开发：调试心得",
+  "bookDescription": "此处介绍Xcode开发中调试方面的心得。先是Xcode调试的概览；再介绍调试心得，包括调试区的介绍、调试快捷键、断点、调试中、Report Navigator、Build Phases；断点包括条件断点、给汇编加断点；调试中包括日志输出、函数调用堆栈、断点触发详情、代码停下来的原因、箭头指向的指令、切换进程视图。"
+}
